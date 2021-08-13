@@ -2,7 +2,7 @@
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
-This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored advanced CSS and introductory JavaScript concepts. During this Sprint, you studied responsive web design, variable declaration, conditionals, loops, functions, arrays, and objects. In your challenge this week, you will demonstrate proficiency by creating a website of influential artists with data from an object.
+This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored advanced CSS and introductory JavaScript concepts. During this Sprint, you studied responsive web design, variable declaration, conditionals, loops, functions, arrays, and objects. In your challenge this week, you will demonstrate proficiency by creating a website of influential artists with data from an object. 
 
 This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
 
@@ -22,11 +22,23 @@ Commit your code regularly and meaningfully.
 
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
-1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+1. How would you describe accessibility on the web to someone new to programming?
+    - It is a practice of making the websites usable by as many people as possible. Generally its customized for people with disabilities yet the practice of making the sites accessible can also benefit others groups as well such as mobile devices and or slow internet connections. Everyone is provided with equal opportunities no matter their circumstances.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+    - Provide proper alternate text for images.
+    - Use color with care to ensure people with disabilities benefit greatly from color when used to distinguish and organize the content.
+    - Ensure the content is logical and navigable using only a keyboard.
+
+
 3. How would you explain the concept of a variable to someone new to programming?
+    - It is a value that can change depending on the conditions or information passed to the program. typically contains instructions that tells the computer what to do and what is the usage of the data in the program while running.
+
 4. What is the purpose of using functions in code?
+    - It enables the programmer to break down a problem into smaller chunks each that performs a particular task.
+
 5. How do you access a key inside of an object inside of an array?
+    - A dot property accessor would require a valid identifier for example Objects.keys() will return the keys of object.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
