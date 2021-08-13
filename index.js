@@ -261,11 +261,11 @@ Use removeArtist to do the following:
 For example, if removeArtist is invoked with the artists array and the number 0, it will remove Amedeo Modigliani from our dataset and return the number 19. */
 
 function removeArtist(array) {
-  array.splice()
-  return array;
+  array.pop()
+  return array.length;
 }
 
-console.log('Task 5:',removeArtist(artists, 19));
+console.log('Task 5:',removeArtist(artists));
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
@@ -297,7 +297,7 @@ function addArtist(array) {
     return array;
 
 }
-console.log(addArtist(artists));
+console.log('Task 6:',addArtist(artists));
 
 
 
